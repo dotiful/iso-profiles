@@ -240,7 +240,7 @@ screenfetch
 systemd-kcm
 >extra thunderbird
 >extra vlc
-yakuake
+# yakuake
 
 ## Optional dependencis for cantata
 >extra mpd       # playback
@@ -294,3 +294,12 @@ manjaro-hotfixes
 ## Flatpak support
 >extra xdg-desktop-portal
 >extra xdg-desktop-portal-kde
+
+#
+# ─── CUSTOM ───────────────────────────────────────────────────────────────────
+#
+base-devel
+micro
+fzf
+fd
+ripgrep
