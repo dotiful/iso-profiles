@@ -9,3 +9,5 @@ nbd
 clonezilla
 KERNEL-zfs
 zfs-utils
+gparted
+mtools
