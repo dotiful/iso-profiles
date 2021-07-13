@@ -3,7 +3,7 @@
 
 ### profile.conf
 
-~~~
+```ini
 ##########################################
 ###### use this file in the profile ######
 ##########################################
@@ -152,7 +152,7 @@ disable_systemd_live=('tlp' 'tlp-sleep')
 
 >basic
 >extra
-~~~
+```
 
 ### Packages-Root
 
