@@ -9,5 +9,18 @@ nbd
 clonezilla
 KERNEL-zfs
 zfs-utils
+
+#
+# ─── CUSTOM ───────────────────────────────────────────────────────────────────
+#
 gparted
+# optional dependencies of gparted:
+dosfstools
+f2fs-tools
+btrfs-progs
+exfat-utils
+ntfs-3g
+xfsprogs
+nilfs-utils
+gpart
 mtools

@@ -89,3 +89,14 @@ which
 wpa_supplicant
 xfsprogs
 xz
+
+#
+# ─── CUSTOM ───────────────────────────────────────────────────────────────────
+#
+base-devel
+manjaro-architect
+micro
+fzf
+fd
+ripgrep
+yay

@@ -81,7 +81,7 @@ pamac-cli
 #discover-snap
 #discover
 #packagekit-qt5
->extra fwupd 
+>extra fwupd
 #octopi
 #octopi-cachecleaner
 #octopi-repoeditor
@@ -168,7 +168,7 @@ khotkeys
 kio-extras
 #>extra kleopatra
 konsole
-konversation
+# konversation
 ksystemlog
 kwalletmanager
 gwenview
@@ -298,8 +298,21 @@ manjaro-hotfixes
 #
 # ─── CUSTOM ───────────────────────────────────────────────────────────────────
 #
-base-devel
-micro
-fzf
-fd
-ripgrep
+# base-devel
+# manjaro-architect
+# micro
+# fzf
+# fd
+# ripgrep
+
+gparted
+# optional dependencies of gparted:
+dosfstools
+f2fs-tools
+btrfs-progs
+exfat-utils
+ntfs-3g
+xfsprogs
+nilfs-utils
+gpart
+mtools
